@@ -17,7 +17,6 @@
 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/marcoshenrique-developer/).
 
 ## Linguagens e Tecnologias
-
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,6 +24,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbr&layout=compact&theme=radical)
 
 ## Projetos em Destaque (em produção)
 
