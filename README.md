@@ -28,8 +28,11 @@
 
 ## Projetos em Destaque (em produção)
 
-### Projeto 1
-Descrição breve do projeto.
+### Projeto 1 - [Apocalipse Zumbi](https://dev.azure.com/LearnMarcosHenrique/Unity/_git/ZombieApocalypse_Alura)
+> **Nota:** Esse projeto se encontra em desenvolvimento e no Azure Devops devido ao seu tamanho.
+
+Projeto de um jogo simples no qual, criamos um personagem com uma arma de fogo para poder atirar e eliminar os zumbis.
+Por enquanto a proposta e o map se encontram no estagio de desenvolvimento, no qual, sera ampliado o mapa e desenvolvido novas funcionalidades.
 
 ### Projeto 2
 Descrição breve do projeto.
