@@ -1,5 +1,6 @@
 # Olá, eu sou o Marcos Henrique! 👋
-
+![Marcos GitHub Estatística](https://github-readme-stats.vercel.app/api?username=midnightbr&show_icons=true&theme=dark)
+<br>
 🎓 Desenvolvedor Full Stack na [Engegraph](https://engegraph.com.br) há mais de dois anos.
 
 📌 Atualmente trabalhando com a linguagem C# na plataforma .NET.
@@ -25,7 +26,10 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbr&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbr&layout=donut&langs_count=8t&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+> **Nota:** Alguns projetos e códigos feitos não estão no GitHub e sim no Azure DevOps. Estou trabalhando na parte de migração dos meus códigos publicos para o GitHub.
 
 ## Projetos em Destaque (em produção)
 
