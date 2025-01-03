@@ -5,15 +5,17 @@
 
 📌 Atualmente trabalhando com a linguagem C# na plataforma .NET.
 
-🔍 Estudando Flutter, Python, IA e Unity Engine.
+🔍 Estudando Kotlin, Python, IA e Unity Engine.
 
 🚀 Sempre em busca de novos desafios que me forcem a melhorar e evoluir como programador.
 
 📚 Já fiz alguns cursos sobre os seguintes temas:
 - Flutter
+- Kotlin
 - Vue.js
 - Python
 - Unity
+- C#
 
 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/marcoshenrique-developer/).
 
@@ -25,6 +27,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbr&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
