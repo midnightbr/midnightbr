@@ -29,8 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbr&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-> **Nota:** Alguns projetos e códigos feitos não estão no GitHub e sim no Azure DevOps. Estou trabalhando na parte de migração dos meus códigos publicos para o GitHub.
-
 ## Projetos em Destaque (em produção)
 
 ### Projeto 1 - [Curso de Desenvolvimento de Jogos Unity](https://github.com/midnightbr/Curso-Unity-RPG)
