@@ -10,7 +10,6 @@
 🚀 Sempre em busca de novos desafios que me forcem a melhorar e evoluir como programador.
 
 📚 Já fiz alguns cursos sobre os seguintes temas:
-- Flutter
 - Kotlin
 - Vue.js
 - Python
@@ -25,8 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbr&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,14 +33,8 @@
 
 ## Projetos em Destaque (em produção)
 
-### Projeto 1 - [Apocalipse Zumbi](https://dev.azure.com/LearnMarcosHenrique/Unity/_git/ZombieApocalypse_Alura)
-> **Nota:** Esse projeto se encontra em desenvolvimento e no Azure Devops devido ao seu tamanho.
-
-Projeto de um jogo simples no qual, criamos um personagem com uma arma de fogo para poder atirar e eliminar os zumbis.
-Por enquanto a proposta e o mapa se encontram no estagio de desenvolvimento, no qual, sera ampliado o mapa e desenvolvido novas funcionalidades.
-
-### Projeto 2
-Descrição breve do projeto.
+### Projeto 1 - [Curso de Desenvolvimento de Jogos Unity](https://github.com/midnightbr/Curso-Unity-RPG)
+Projeto do curso onde irei aprender a desenvolver RPG e Souls Like utilizando o motor gráfico Unity.
 
 ## Sobre Mim
 
