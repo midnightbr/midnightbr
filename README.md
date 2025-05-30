@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Marcos Henrique! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/midnightbr.png" width="120" style="border-radius: 50%;" alt="Foto de perfil do Marcos Henrique" />
-</p>
-
-<p align="center">
   💻 Desenvolvedor Full Stack na <a href="https://engegraph.com.br" target="_blank">Engegraph</a> <br>
   🔍 Foco atual: .NET/C# (incluindo MAUI e WPF), Kotlin, Python, Vue.js, Typescript, C++, Unity e Unreal <br>
   🚀 Curioso, esforçado, criativo e sempre correndo atrás dos meus sonhos
