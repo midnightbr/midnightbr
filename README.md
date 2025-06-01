@@ -70,6 +70,9 @@
   <table>
     <tr>
       <th>✅ Projetos Concluídos</th>
+      <th>🚧 Projetos em Andamento</th>
+      <th>🔮 Projetos Futuros</th>
+      <th>⏸ Projetos Pausados</th>
     </tr>
     <tr>
       <td>
@@ -77,9 +80,32 @@
           <li><a href="https://github.com/midnightbr/hackintosh-mr9apro-6750xt">🖥 Hackintosh MR9A Pro</a> – Configuração e otimização de macOS em hardware não oficial.</li>
         </ul>
       </td>
+      <td></td>
+      <td>
+        <ul>
+          <li><a href="https://github.com/midnightbr/minex-app">⛏️ Minex</a> – App open-source de cálculo de rentabilidade para mineração.</li>
+          <li><a href="https://github.com/midnightbr/thermocore-monitor">🌡️ ThermoCore</a> – Monitoramento de hardware multiplataforma com telemetria.</li>
+          <li><a href="https://github.com/midnightbr/benchhawk-suite">🧪 BenchHawk</a> – Benchmark completo de CPU, GPU, RAM, disco e rede.</li>
+          <li><a href="https://github.com/midnightbr/votelytics-api">🗳️ Votelytics</a> – API de votação em tempo real com dashboard ao vivo.</li>
+          <li><a href="https://github.com/midnightbr/slotsync-system">📅 SlotSync</a> – Sistema de agendamento com controle de horários e notificações.</li>
+          <li><a href="https://github.com/midnightbr/meiflux-dashboard">💰 MEIFlux</a> – Dashboard financeiro para MEI e Simples Nacional.</li>
+          <li><a href="https://github.com/midnightbr/tasknest-desktop">📝 TaskNest</a> – Gerenciador de tarefas local com suporte offline.</li>
+          <!--
+          <li><a href="https://github.com/midnightbr/fortgrid-unity">🛡️ FortGrid</a> – Tower Defense em Unity com sistema de upgrades.</li>
+          <li><a href="https://github.com/midnightbr/jetstrike-runner">🚀 JetStrike</a> – Endless runner 2D estilo Jetpack Joyride.</li>
+          <li><a href="https://github.com/midnightbr/apexzero-fps-unity">🔫 ApexZero</a> – FPS em Unity com HUD e inimigos controlados por IA.</li>
+          <li><a href="https://github.com/midnightbr/strikezone-tps-unreal">🎯 StrikeZone</a> – TPS em Unreal com combate e armas variadas.</li>
+          <li><a href="https://github.com/midnightbr/virtuahome-simulator">🏠 VirtuaHome</a> – Simulador de ambientes 3D interativos.</li>
+          <li><a href="https://github.com/midnightbr/botskirmish-arena">🤖 BotSkirmish</a> – Arena com bots e sistema de pontuação (Unreal).</li>
+          <li><a href="https://github.com/midnightbr/echoarena-unreal">⚔️ EchoArena</a> – Combate de bots em arena usando Unreal Engine.</li>
+          -->
+        </ul>
+      </td>
+      <td></td>
     </tr>
   </table>
 </div>
+⚠️ *Alguns projetos listados como futuros ainda não têm previsão de início devido à disponibilidade de tempo. Eles serão desenvolvidos conforme a agenda permitir.*
 
 ---
 
@@ -121,8 +147,3 @@
 </p>
 
 ---
-
-## 🔗 Conecte-se Comigo
-
-[LinkedIn](https://www.linkedin.com/in/marcoshenrique-developer/)  
-[E-mail](mailto:marcosriderbr@outlook.com)  
