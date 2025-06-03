@@ -53,12 +53,12 @@
       <td>
         <ul>
           <li><a href="https://github.com/midnightbr/Android-Kotlin-Projeto1">📱 Android Kotlin Projeto 1</a></li>
+          <li><a href="https://github.com/midnightbr/Curso-Unity-RPG">🎮 Curso Unity RPG</a></li>
         </ul>
       </td>
       <td>
         <ul>
           <li><a href="https://github.com/midnightbr/CalculadoraIMC">⚖️ Calculadora IMC</a></li>
-          <li><a href="https://github.com/midnightbr/Curso-Unity-RPG">🎮 Curso Unity RPG</a></li>
           <li><a href="https://github.com/midnightbr/CSharp-Completo">💻 C# Completo</a></li>
         </ul>
       </td>
