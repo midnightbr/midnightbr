@@ -59,7 +59,6 @@
       <td>
         <ul>
           <li><a href="https://github.com/midnightbr/CalculadoraIMC">⚖️ Calculadora IMC</a></li>
-          <li><a href="https://github.com/midnightbr/CSharp-Completo">💻 C# Completo</a></li>
         </ul>
       </td>
     </tr>
@@ -81,7 +80,6 @@
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/midnightbr/hackintosh-mr9apro-6750xt">🖥 Hackintosh MR9A Pro</a></li>
         </ul>
       </td>
       <td></td>
@@ -89,11 +87,6 @@
         <ul>
           <li><a href="https://github.com/midnightbr/minex-app">⛏️ Minex</a> – Cálculo de rentabilidade para mineração.</li>
           <li><a href="https://github.com/midnightbr/thermocore-monitor">🌡️ ThermoCore</a> – Monitoramento de hardware com telemetria.</li>
-          <li><a href="https://github.com/midnightbr/benchhawk-suite">🧪 BenchHawk</a> – Benchmark de CPU, GPU, RAM e mais.</li>
-          <li><a href="https://github.com/midnightbr/votelytics-api">🗳️ Votelytics</a> – API de votação em tempo real.</li>
-          <li><a href="https://github.com/midnightbr/slotsync-system">📅 SlotSync</a> – Agendamento e notificações.</li>
-          <li><a href="https://github.com/midnightbr/meiflux-dashboard">💰 MEIFlux</a> – Dashboard financeiro para MEIs.</li>
-          <li><a href="https://github.com/midnightbr/tasknest-desktop">📝 TaskNest</a> – Gerenciador de tarefas offline.</li>
         </ul>
       </td>
       <td></td>
